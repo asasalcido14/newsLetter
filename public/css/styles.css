@@ -37,10 +37,10 @@ body {
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
 }
-.middle{
+.middle {
   border-radius: 0;
 }
-.bottom{
+.bottom {
   margin-bottom: -1px;
   border-top-left-radius: 0;
   border-top-right-radius: 0;
